@@ -16,7 +16,7 @@ $tahun = date("Y");
 
 <div id="page-wrapper" style="font-family: Roboto;">
     <div class="container-fluid">
-        <div class="row" style="margin-top: 2vh;">
+        <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header text-light" style="font-weight: 600;">Mengelola Data Barang</h1>
             </div>
